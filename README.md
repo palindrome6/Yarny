@@ -1,1 +1,1 @@
-# Yarny
+# Yarny: Goodreads, but modern.
